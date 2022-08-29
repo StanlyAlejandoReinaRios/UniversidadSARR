@@ -1,0 +1,17 @@
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\bin\Debug\net6.0\UniversidadSARR.Business.deps.json
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\bin\Debug\net6.0\UniversidadSARR.Business.runtimeconfig.json
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\bin\Debug\net6.0\UniversidadSARR.Business.dll
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\bin\Debug\net6.0\UniversidadSARR.Business.pdb
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.csproj.AssemblyReference.cache
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.AssemblyInfoInputs.cache
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.AssemblyInfo.cs
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.csproj.CoreCompileInputs.cache
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.dll
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\refint\UniversidadSARR.Business.dll
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.pdb
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.genruntimeconfig.cache
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\ref\UniversidadSARR.Business.dll
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\bin\Debug\net6.0\Universidad.Models.dll
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\bin\Debug\net6.0\Universidad.Models.pdb
+C:\Users\Stanly\source\repos\UniversidadSARR.Business\obj\Debug\net6.0\UniversidadSARR.Business.csproj.CopyComplete
